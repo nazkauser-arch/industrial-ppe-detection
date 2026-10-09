@@ -1,0 +1,16 @@
+path: .
+train: images_cleaned/train
+val: images_cleaned/val
+test: images_cleaned/test
+
+names:
+  0: helmet
+  1: gloves
+  2: vest
+  3: boots
+  4: goggles
+  5: Person
+  6: no_helmet
+  7: no_goggles
+  8: no_ gloves
+  9: no_boots
