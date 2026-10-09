@@ -1,7 +1,7 @@
 path: .
-train: images/train
-val: images/val
-test: images/test
+train: images_cleaned/train
+val: images_cleaned/val
+test: images_cleaned/test
 
 names:
   0: helmet
