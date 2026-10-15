@@ -1,7 +1,7 @@
 path: ../dataset
-train: images/train
-val: images/val
-test: images/test
+train: cleaned/images/train
+val:  cleaned/images/val
+test: cleaned/images/test
 
 names:
   0: helmet
