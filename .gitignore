@@ -1,4 +1,3 @@
 dataset/images
 dataset/labels
-dataset/labels_cleaned
-dataset/images_cleaned
+dataset/cleaned
