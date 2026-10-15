@@ -1,3 +1,6 @@
 dataset/images
 dataset/labels
 dataset/cleaned
+training/yolo26n.pt
+runs/
+api/model/
