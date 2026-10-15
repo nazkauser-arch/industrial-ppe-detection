@@ -1,0 +1,78 @@
+
+/* Main background */
+.stApp {
+    background-color: #F5F0E8;
+    color: #40382F;
+}
+
+/* Content spacing */
+.block-container {
+    max-width: 1200px;
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+}
+
+/* Headings */
+h1, h2, h3 {
+    color: #554536 !important;
+}
+
+/* Paragraphs and labels */
+p, label {
+    color: #301700;
+}
+
+/* Metric cards */
+[data-testid="stMetric"] {
+    background-color: #FFFCF6;
+    border: 1px solid #E4D7C5;
+    padding: 20px;
+    border-radius: 14px;
+    box-shadow: 0 3px 8px rgba(85, 69, 54, 0.06);
+}
+
+/* Metric values */
+[data-testid="stMetricValue"] {
+    color: #8A7356;
+}
+
+/* Buttons */
+.stButton > button {
+    background-color: #8A7356;
+    color: #FFFFFF;
+    border: none;
+    border-radius: 8px;
+    padding: 0.6rem 1.2rem;
+    font-weight: 600;
+}
+
+/* Button hover */
+.stButton > button:hover {
+    background-color: #6F5A43;
+    color: #FFFFFF;
+}
+
+/* File uploader */
+[data-testid="stFileUploader"] {
+    background-color: #FFFCF6;
+    border: 1px dashed #C8B69D;
+    border-radius: 12px;
+    padding: 12px;
+}
+
+/* Data table */
+[data-testid="stDataFrame"] {
+    background-color: #FFFCF6;
+    border: 1px solid #E4D7C5;
+    border-radius: 10px;
+}
+
+/* Slider */
+.stSlider {
+    color: #8A7356;
+}
+
+/* Dividers */
+hr {
+    border-color: #E4D7C5;
+}
